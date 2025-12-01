@@ -1,0 +1,9 @@
+{
+  "name": "OnlineDoctor",
+  "description": "Professional medical analysis and consultation platform powered by Gemini.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
